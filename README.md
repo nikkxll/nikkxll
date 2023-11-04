@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Dmitrii!</h1>
-<h2 align="center">A software developer living in Finland</h2>
+<h1 align="left">Hi, I'm Dmitrii!</h1>
+<h2 align="left">A software developer living in Finland</h2>
 
 - 🔭 I’m currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)</a>
 
