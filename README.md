@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Dmitrii!</h1>
 <h3 align="center">A software developer living in Finland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikkxll" alt="nikkxll" /></a> </p>
-
 - 🔭 I’m currently studying at **Hive Helsinki (École 42)**
 
 - 🌱 I’m currently learning **C/C++ and Javascript (NodeJS)**
