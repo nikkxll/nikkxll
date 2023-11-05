@@ -1,15 +1,15 @@
-<h1 align="left">Hi, I'm Dmitrii!</h1>
-<h2 align="left">A software developer living in Finland</h2>
+<h1 align="left">Hi! It's a big pleasure to see you here</h1>
+<h2 align="left">I'm Dmitrii. A software developer living in Finland</h2>
 
 - 🔭 I’m currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)</a>
 
-- 🌱 Learning **C/C++ and Javascript (NodeJS)**
+- 🌱 and learning **C/C++ and Javascript (NodeJS)**
 
-- 👨‍💻 My social media [https://www.linkedin.com/in/dmitriinikiforov/](https://www.linkedin.com/in/dmitriinikiforov/)
+- 👨‍💻 My social media account is here [https://www.linkedin.com/in/dmitriinikiforov/](https://www.linkedin.com/in/dmitriinikiforov/)
 
-- 📫 How to reach me **dmitr.nikiforov@gmail.com**
+- 📫 But you can also reach me by email **dmitr.nikiforov@gmail.com**
 
-- 💼 My vizzes portfolio on Tableau [https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/](https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/)
+- 💼 If you are interected not only in coding aspect, feel free to check my portfolio on Tableau [https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/](https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
