@@ -1,9 +1,9 @@
-<h1 align="left">Hi! It's a big pleasure to see you here</h1>
+<h1 align="left">Hi! It's a big pleasure to see you here :)</h1>
 <h2 align="left">I'm Dmitrii. A software developer living in Finland</h2>
 
 - 🔭 I’m currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)</a>
 
-- 🌱 and learning **C/C++ and Javascript (NodeJS)**
+- 🌱 and learning **C/C++, Javascript (NodeJS)**
 
 - 👨‍💻 My social media account is here [https://www.linkedin.com/in/dmitriinikiforov/](https://www.linkedin.com/in/dmitriinikiforov/)
 
