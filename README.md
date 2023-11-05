@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)</a>
 
-- 🌱 and learning **C/C++, Javascript (NodeJS)**
+- ... and learning **C/C++ and Node.js**
 
 - 👨‍💻 My social media account is here [https://www.linkedin.com/in/dmitriinikiforov/](https://www.linkedin.com/in/dmitriinikiforov/)
 
