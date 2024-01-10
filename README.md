@@ -1,5 +1,4 @@
-<h1 align="left">Hi!</h1>
-<h2 align="left">I'm Dmitrii</h2>
+<h1 align="left">Hi! I'm Dmitrii</h1>
 
 - 🔭 I’m currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)</a>
 
