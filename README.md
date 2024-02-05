@@ -1,4 +1,4 @@
-<h2 align="left">Welcome to my GitHub page!</h2>
+<h1 align="left">Welcome to my GitHub page!</h1>
 
 - 🐝  I'm currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)
 - ...  and learning **Javascript**
