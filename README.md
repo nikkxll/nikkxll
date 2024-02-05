@@ -1,13 +1,9 @@
 <h2 align="left">Welcome to my GitHub page!</h2>
 
 - 🐝  I'm currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)
-
 - ...  and learning **Javascript**
-
 - 👨‍💻  Social media account is here [https://www.linkedin.com/in/dmitriinikiforov/](https://www.linkedin.com/in/dmitriinikiforov/)
-
 - 📫  But you can also reach by email **dmitr.nikiforov@gmail.com**
-
 - 💼  Feel free to check my works on Tableau [https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/](https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/)
 
 <h3 align="left">Connect with me:</h3>
