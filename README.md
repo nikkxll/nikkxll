@@ -1,7 +1,8 @@
 <h1 align="left">Welcome to my GitHub page!</h1>
 
 - 🐝  I'm currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)
-- 👨‍💻  Social media account is here [https://www.linkedin.com/in/dmitriinikiforov/](https://www.linkedin.com/in/dmitriinikiforov/)
+- 👨‍💻  And volunteering at <a href="https://www.hackjunction.com/">Junction</a> as a software developer
+- 📱  Social media account is here [https://www.linkedin.com/in/dmitriinikiforov/](https://www.linkedin.com/in/dmitriinikiforov/)
 - 📫  But you can also reach me by email dmitr.nikiforov@gmail.com
 - 💼  Feel free to check my works on Tableau [https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/](https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/)
 
