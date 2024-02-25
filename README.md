@@ -4,7 +4,7 @@
   
 - 👨‍💻  And volunteering at <a href="https://www.hackjunction.com/">Junction</a> as a software developer
   
-- 📱  My social media account is here [https://www.linkedin.com/in/dmitriinikiforov/](https://www.linkedin.com/in/dmitriinikiforov/)
+- 📱  My social media account is here <a href="https://www.linkedin.com/in/dmitriinikiforov/">LinkedIn</a>
   
 - 📫  But you can also reach me by email dmitr.nikiforov@gmail.com
   
