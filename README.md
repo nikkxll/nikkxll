@@ -1,14 +1,14 @@
 <h1 align="left">Hi and welcome to my GitHub page!</h1>
 
-- 🐝  My name is Dmitrii, I'm currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)
+- 🐝  My name is Dmitrii, I'm currently studying something really special at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)
   
-- 👨‍💻  And volunteering at <a href="https://www.hackjunction.com/">Junction</a> as a software developer
+- 👨‍💻  And volunteering at amazing <a href="https://www.hackjunction.com/">Junction</a> as a software developer
   
 - 📱  My social media account is here <a href="https://www.linkedin.com/in/dmitriinikiforov/">LinkedIn</a>
   
 - 📫  But you can also reach me by email dmitr.nikiforov@gmail.com
   
-- 💼  I'm also obsessed with different kinds of charts, graphs and diagrams so much so I've built my homemade portfolio out of all my mini-projects. Here I'm trying to share the insights that I've found in a more artistic and nonverbose manner. Feel free to check it by following the link: <a href="https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/">Tableau Portfolio</a>
+- 💼  I'm obsessed with different kinds of charts, graphs and diagrams so much so I've built my homemade portfolio out of all my mini-projects. Here I'm trying to share the insights that I've found from public datasets in a more artistic and nonverbose manner. Feel free to check it by following the link: <a href="https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/">Tableau Portfolio</a>
 
 #
 
