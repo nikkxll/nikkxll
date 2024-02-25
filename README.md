@@ -8,7 +8,7 @@
   
 - 📫  But you can also reach me by email dmitr.nikiforov@gmail.com
   
-- 💼  I'm obsessed with different kinds of charts, graphs and diagrams so much so I've built my homemade portfolio out of all my mini-projects. Here I'm trying to share the insights that I've found from public datasets in a more artistic and nonverbose manner. Feel free to check it by following the link: <a href="https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/">Tableau Portfolio</a>
+- 💼  I'm obsessed with different kinds of charts, graphs and diagrams so much so I've built my data visualization homemade portfolio out of all my mini-projects. Here I'm trying to share the insights that I've found from public datasets in a more artistic and nonverbose manner. Feel free to check it by following the link: <a href="https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/">Tableau Portfolio</a>
 
 #
 
