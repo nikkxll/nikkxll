@@ -1,4 +1,4 @@
-<h1 align="left">Welcome to my GitHub page!</h1>
+<h1 align="left">Hi, I'm Dmitrii!</h1>
 
 - 🐝  I'm currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)
 - 👨‍💻  And volunteering at <a href="https://www.hackjunction.com/">Junction</a> as a software developer
