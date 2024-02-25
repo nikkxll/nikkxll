@@ -4,7 +4,7 @@
 - 👨‍💻  And volunteering at <a href="https://www.hackjunction.com/">Junction</a> as a software developer
 - 📱  My social media account is here [https://www.linkedin.com/in/dmitriinikiforov/](https://www.linkedin.com/in/dmitriinikiforov/)
 - 📫  But you can also reach me by email dmitr.nikiforov@gmail.com
-- 💼  I'm also obsessed with different kinds of charts, graphs and diagram so feel free to check my data visualisation portfolio on Tableau [https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/](https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/)
+- 💼  I'm also obsessed with different kinds of charts, graphs and diagrams so feel free to check my data visualisation portfolio on Tableau [https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/](https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/)
 
 #
 
