@@ -1,6 +1,6 @@
-<h1 align="left">Hi, I'm Dmitrii!</h1>
+<h1 align="left">Hi and welcome to my GitHub page!</h1>
 
-- 🐝  I'm currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)
+- 🐝  My name is Dmitrii and 'm currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)
 - 👨‍💻  And volunteering at <a href="https://www.hackjunction.com/">Junction</a> as a software developer
 - 📱  My social media account is here [https://www.linkedin.com/in/dmitriinikiforov/](https://www.linkedin.com/in/dmitriinikiforov/)
 - 📫  But you can also reach me by email dmitr.nikiforov@gmail.com
