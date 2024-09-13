@@ -1,6 +1,6 @@
 <h1 align="left">Hi and welcome to my GitHub page!</h1>
 
-- 🐝  My name is Dmitrii, I'm currently studying something really special at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)
+- 🐝  My name is Dmitrii, I'm currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)
   
 - 👨‍💻  And volunteering at amazing <a href="https://www.hackjunction.com/">Junction</a> as a software developer
   
