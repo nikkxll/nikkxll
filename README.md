@@ -12,18 +12,13 @@
 
 #
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Programming languages</h2>
 
-<p align='left'>
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/bash.svg" alt="bash" height="60" width="60" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C language" height="60" width="60" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++ language" height="60" width="60" /> 
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="bablubambal" height="60" width="60" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="60" width="60" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" alt="nodejs" height="60" width="60" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/databases/mongodb.svg" alt="mongodb" height="60" width="60" /> 
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/react.svg" alt="react" height="60" width="60" /> 
-</p>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp,c,r,bash)](https://skillicons.dev)
+
+<h2 align="left">Other tools</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,react,express,tailwind,django,jest,mongodb,postgresql,sqlite,docker,nginx)](https://skillicons.dev)
 
 #
 
