@@ -2,7 +2,7 @@
 
 - 🐝  My name is Dmitrii, I'm currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)
   
-- 👨‍💻  Volunteered at <a href="https://www.hackjunction.com/">Junction</a> as a software developer
+- 👨‍💻  Contributed to <a href="https://www.hackjunction.com/">Junction</a> as a software developer
   
 - 📱  My social media account is here <a href="https://www.linkedin.com/in/dmitriinikiforov/">LinkedIn</a>
   
