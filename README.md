@@ -22,10 +22,5 @@
 
 #
 
-<div align="left">
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nikkxll&show_icons=true&locale=en&theme=transparent" alt="nikkxll" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikkxll&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nikkxll"/></p>
-
-</div>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nikkxll&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="nikkxll" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikkxll&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="nikkxll" /></a>
