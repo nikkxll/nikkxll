@@ -8,6 +8,8 @@
   
 - 📫  But you can also reach me by email dmitr.nikiforov@gmail.com
   
+- ⚙️  Personal website <a href="https://dmitrii-nikiforov.vercel.app/">Portfolio</a>
+
 - 💼  Data vizz portfolio <a href="https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/">Tableau Portfolio</a>
 
 #
