@@ -1,16 +1,21 @@
-<h1 align="left">Hi and welcome to my GitHub page!</h1>
+<h1 align="left">Hi and welcome to my GitHub page! 
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f636_200d_1f32b_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f636_200d_1f32b_fe0f/512.gif" alt="😶" width="32" height="32">
+  </picture>
+</h1>
 
 - 🐝  My name is Dmitrii, I'm currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)
   
-- 👨‍💻  Contributed to <a href="https://www.hackjunction.com/">Junction</a> as a software developer
+- 👨‍💻  Contributed to <a href="https://www.hackjunction.com/">Junction</a> platform as a software developer
   
-- 📱  My social media account is here <a href="https://www.linkedin.com/in/dmitriinikiforov/">LinkedIn</a>
+- 📱  My LinkedIn account is <a href="https://www.linkedin.com/in/dmitriinikiforov/">here</a>
   
-- 📫  But you can also reach me by email dmitr.nikiforov@gmail.com
+- 📫  But you can also reach me by <a href="mailto:dmitr.nikiforov@gmail.com">email</a>
   
-- ⚙️  Personal website <a href="https://dmitrii-nikiforov.vercel.app/">Portfolio</a>
+- ⚙️  <a href="https://dmitrii-nikiforov.vercel.app/">Personal website</a>
 
-- 💼  Data vizz portfolio <a href="https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/">Tableau Portfolio</a>
+- 💼  <a href="https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/">Data vizz portfolio</a>
 
 #
 
