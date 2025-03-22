@@ -31,3 +31,7 @@
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nikkxll&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="nikkxll" /></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikkxll&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="nikkxll" /></a>
+
+<div align="center">
+  <img src="https://github.com/nikkxll/nikkxll/blob/output/github-snake-dark.svg" alt="snake gif" />
+</div>
