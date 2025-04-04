@@ -6,8 +6,10 @@
 </h1>
 
 - 🐝  My name is Dmitrii, I'm currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)
+
+- 💼  Working at <a href="https://turckvilant.com/">Turck Vilant Systems</a> as a software testing engineer
   
-- 👨‍💻  Contributed to <a href="https://www.hackjunction.com/">Junction</a> platform as a software developer
+- 👨‍💻  Contributed to <a href="https://www.hackjunction.com/">Junction</a> platform
   
 - 📱  My LinkedIn account is <a href="https://www.linkedin.com/in/dmitriinikiforov/">here</a>
   
