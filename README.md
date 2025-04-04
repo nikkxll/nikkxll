@@ -17,8 +17,6 @@
   
 - ⚙️  <a href="https://dmitrii-nikiforov.vercel.app/">Personal website</a>
 
-- 💼  <a href="https://public.tableau.com/app/profile/nikiforov.dmitrii/vizzes/">Data vizz portfolio</a>
-
 #
 
 <h2 align="left">Programming languages</h2>
