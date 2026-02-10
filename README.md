@@ -28,6 +28,3 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,react,express,tailwind,django,jest,mongodb,postgresql,sqlite,docker,nginx)](https://skillicons.dev)
 
 #
-
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nikkxll&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="nikkxll" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikkxll&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="nikkxll" /></a>
