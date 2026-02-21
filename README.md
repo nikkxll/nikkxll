@@ -5,7 +5,7 @@
   </picture>
 </h1>
 
-- 🐝  My name is Dmitrii, I'm currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)
+- 🐝  My name is Dmitrii, I'm <a href="https://www.hive.fi/en/">Hive Helsinki (École 42) alumni
 
 - 💼  Working at <a href="https://turckvilant.com/">Turck Vilant Systems</a> as a software testing engineer
   
