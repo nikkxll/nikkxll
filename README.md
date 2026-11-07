@@ -7,7 +7,7 @@
 
 - 🐝  My name is Dmitrii, I'm alumni of <a href="https://www.hive.fi/en/">Hive Helsinki (École 42)
 
-- 💼  Working at <a href="https://turckvilant.com/">Turck Vilant Systems</a> as a software testing engineer
+- 💼  Working at GE HealthCare as a test automation engineer
   
 - 👨‍💻  Contributed to <a href="https://www.hackjunction.com/">Junction</a> platform
   
